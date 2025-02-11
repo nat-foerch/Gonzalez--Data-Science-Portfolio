@@ -1,4 +1,4 @@
-## Overview: This is a description of how to run the streamlit app in this respository! 
+## Overview: This is an app that will explore penguin demographics that include three different species and their island, sex, body mass, and more! Scroll through the dataset and use the dropdown menu to filter through penguin species! 
 
 ### How to Run the App!
 
