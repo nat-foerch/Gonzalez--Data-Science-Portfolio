@@ -10,7 +10,7 @@ February 10th, 2025
 Hello! I have created my first Streamlit app using the penguins dataset! Click the link above and you will learn how to access this app and how to create one of your own!
 
 
-# [TidyData- Project](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/TidyData-Project)
+# [TidyData - Project](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/TidyData-Project)
 
 <hr>
 <img align="left" width="230" height="150" src="https://assets.nationbuilder.com/drmikekatz/pages/21/attachments/original/1698609703/money_government_pic_10-29-23_b.jpg?1698609703" style="width: 35%;" />
