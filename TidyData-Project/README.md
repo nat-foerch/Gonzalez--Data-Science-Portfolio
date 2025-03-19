@@ -68,13 +68,24 @@ Run the coding block and you are set to explore the data!
 ## Cleaning Process 🫧
 To clean this dataset according to the three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) we must...
 
-**First, have each variable in its own column**. This means that variables such as "Year", "GDP", "Department", and "Budget" must be labeled at the top of the dataset.
+**First, have each variable in its own column**. This means that variables such as "Department", "Budget", "Year", and "GDP" must be labeled at the top of the dataset.
 
 **Second, have each observation in its own row**. This is the result of one treatment on one person.
 
 **Third, have each type of observational form a table**. Good ordering makes it easier to scan raw values.
 
 ## Vizualizations
+<hr>
+<p align="center">
+  <img src="https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Images/lineplot.png" width="70%" style="display:inline-block; margin-right: 10px;">
+
+This line plot demonstrates how each department's budget changed over time. The Department of Defense (DOD) receives the most money each year.
+<hr>
+<p align="center">
+  <img src="https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Images/barplot.png" width="70%" style="display:inline-block;">
+</p>
+This bar chart demonstrates the year-to-year budget allocated to all departments. The total budget has steadily increased each year, although it has generally decreased since 2011.
+
 
 ## References
 *Pandas Cheat Sheet: https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf*
