@@ -143,17 +143,22 @@ st.write("## Model Performance🎖️ ")
 accuracy = accuracy_score(y_test, y_pred)
 precision = precision_score(y_test, y_pred, average='weighted', zero_division=0)
 
-
 st.metric("Accuracy:", f"{accuracy:.4f}")
 st.markdown(""" ***Accuracy*** is the percentage of correct classifications.""")
 st.metric("Precision:", f"{precision:.4f}")
 st.markdown(""" ***Precision*** is the percentage of a model's positive predictions.""")
 
+###########################
+# Classification Report
+###########################
 #show_classification(y_test, y_pred):
 st.write("### Classification Report 📝")
     # Build and display the classification report.
 st.text(classification_report(y_test, y_pred))
 
+#########################
+# Notes of Encouragement
+#########################
 st.info(" Continue to train and explore your data using different target variables and features using the sidebar menu! ")
 
 st.info("Explore away!🚀 ")
