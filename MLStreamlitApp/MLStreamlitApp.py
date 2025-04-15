@@ -156,7 +156,7 @@ st.write("### Classification Report 📝")
     # Build and display the classification report.
 st.text(classification_report(y_test, y_pred))
 
-#########################
+##########################
 # Notes of Encouragement
 #########################
 st.info(" Continue to train and explore your data using different target variables and features using the sidebar menu! ")
