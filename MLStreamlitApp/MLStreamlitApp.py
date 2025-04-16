@@ -49,7 +49,7 @@ st.sidebar.header("Step 2. Select Target and Feature Variables")
 
 target = st.sidebar.selectbox("Select a target variable:🎯 ", data.columns) 
 
-features = st.sidebar.multiselect("Select Feature Variables:🚢 *Select "adult_male & fare *", data.columns.drop(target))
+features = st.sidebar.multiselect("Select Feature Variables:🚢 like adult_male & age", data.columns.drop(target))
 
 X = data[features]
 y = data[target]
