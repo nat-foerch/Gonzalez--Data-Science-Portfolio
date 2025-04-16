@@ -11,7 +11,7 @@ This streamlit app allows users to explore data using machine learning models. I
 - seaborn==0.13.2
 - streamlit
 
-### Two Ways To Access The App:
+### Two Awesome Ways To Run The App:
 
 1. Click this [link](https://foerchml.streamlit.app/)
 
