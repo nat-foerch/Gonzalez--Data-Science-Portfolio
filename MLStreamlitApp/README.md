@@ -23,4 +23,17 @@ This streamlit app allows users to explore data using machine learning models. I
 - Use default titanic dataset
 
 ### Machine Learning Models
-- 
+- Decision Trees
+- K Nearest Neighbors
+
+### Visuals 
+- Dataset Preview
+- Confusion Matrix
+- Accuracy
+- Precision
+- Classification Report
+
+## References
+- [Streamlit API Cheat Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)
+- [SciKit Learn User Guide](https://scikit-learn.org/stable/supervised_learning.html)
+- [Seaborn API](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
