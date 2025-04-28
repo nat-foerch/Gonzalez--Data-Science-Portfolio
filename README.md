@@ -3,7 +3,7 @@
 - I will include folders for EDA, visualizations, and other models.
 - This repository was created while enrolled in Intro To Data Science at Notre Dame. Taught by [David M Smiley](https://dmsmiley.github.io/).
 
-# [4/14 MLStreamlit App 📈 ](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp)
+# [4/14 Machine Learning Streamlit App 📈 ](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp)
 <hr>
 <img align="left" width="230" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg" style="width: 25%;" />
 
