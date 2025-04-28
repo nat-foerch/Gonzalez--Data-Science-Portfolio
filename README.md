@@ -1,7 +1,10 @@
 # Gonzalez--Data-Science-Portfolio
-- This is my first repository, which will be used to organize future projects this Spring semester of 2025.
-- I will include folders for EDA, visualizations, and other models.
-- This repository was created while enrolled in Intro To Data Science at Notre Dame. Taught by [David M Smiley](https://dmsmiley.github.io/).
+- This is my first repository. This will be used to organize my spring 2025 projects. 
+- This repository includes projects involving...
+  - Unsupervised Machine Learning
+  - Supervised Machine Learning
+  - Tidy Data Cleaning
+- This repository was created while enrolled in a spring data science course taught by [David M Smiley](https://dmsmiley.github.io/).
 
 # [4/14 Machine Learning Streamlit App 📈 ](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp)
 <hr>
