@@ -1,22 +1,41 @@
-## Overview: This is an app that will explore penguin demographics that include three different species and their island, sex, body mass, and more! Scroll through the dataset and use the dropdown menu to filter through penguin species! 
+## My First Streamlit App 🏅: Using _st._ Features For Simple EDA 
 
-### How to Run the App!
+## Project Overview
+This app will explore penguin demographics using the [Palmer Penguins Dataset](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/basic_streamlit-app/data/penguins.csv)🐧. This app will give the option to subset a penguin species and allow the user to explore the data more cleanly and easily! Feel free to also filter through different penguin islands, sexes, and body masses! Let's begin!
 
-Install streamlit in your Python development environment. Run: pip install streamlit
+## How to Run the App 🏃🏻‍♀️‍➡️
+(1) Check that you have imported Streamlit and installed the required libraries and packages!
+- Streamlit
+- seaborn==0.13.2
+- pandas==2.2.3
+  
+(2) Run: ``pip install streamlit`` in your terminal in VS Code.
 
-Validate the installation by running: Hello (optional)
+(3) Validate the installation by running: ``Hello``(optional)
 
-Clone the this entire reprository or download the app to your local machine.
+(4) Copy & paste this [code](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/basic_streamlit-app/main.py) in your enviornment.
 
-Navigate to the basic_streamlit-app folder. Then acces the main.py script.
+(5) Run the code and see the magic happen on Streamlit!
 
-Run the file after importing
+## App & Code Features
+### Dataset
+Palmers Penguins Dataset 🐧
 
-You many want to run: Import streamlit as st
+### _st._ Functions ⚙️
+- ``st.dataframe``
+- ``st.selectbox``
+- ``st.title``
+- ``st.write``
+- ``st.subheader``
 
-Open the terminal and run the app using streamlit run main.py. The web page will pop up and you can see the app functions.
+### Visuals 😎
+- Selectbox
+- Table Chart
+- Headings & Labels
+<hr>
+<p align="left">
+  <img src="https://i.sstatic.net/DdOWczp4.png" style="width: 35%;" />
 
-Save the file by clicking the top left "File" button OR press "ctrl+s" on your keyboard to save the code.
 
-### Exploring the Penguin Data!
-streamlit run basic_streamlit_app/main.py
+## Reference 📜
+- [Streamlit API Cheat Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)
