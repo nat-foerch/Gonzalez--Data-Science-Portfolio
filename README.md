@@ -1,12 +1,17 @@
-# Gonzalez--Data-Science-Portfolio
-- This is my first repository. This will be used to organize my spring 2025 projects. 
-- This repository includes projects involving...
-  - Unsupervised Machine Learning
-  - Supervised Machine Learning
-  - Tidy Data Cleaning
-- This repository was created while enrolled in a spring data science course taught by [David M Smiley](https://dmsmiley.github.io/).
+# Intro To Data Science Portfolio
+## Repository Overview 📜
+Hi, and welcome to my first repository on GitHub! I started this journey back in January and have completed it in May. This was used during my Intro to Data Science course in the spring semester of 2025. Here you will find a few of my projects that I have completed throughout the semester. I have certainly learned a lot and will be continuing to develop as a data analyst in the foreseeable future! Thanks to [David M Smiley](https://dmsmiley.github.io/) for having the patience to teach me this past year!
 
-# [4/14 Machine Learning Streamlit App 📈 ](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp)
+## Latest Projects
+# [5/6 🧠 Unsupervised Machine Learning Streamlit App](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
+<hr>
+<img align="left" width="230" height="150" src="https://anubrain.com/wp-content/uploads/2023/04/Black-White-Simple-Photo-How-AI-Take-Over-the-World-YouTube-Thumbnail.jpg" style="width: 25%;" />
+
+May 6th, 2025
+
+Hello there, again! Back here with another update! I now want to showcase my new and final project for the spring semester. I have been hard at work developing an unsupervised machine learning app using Streamlit. I used three machine learning models, ***Principal Component Analysis (PCA)***, ***KMeans Clustering***, and ***Hierarchical Clustering***. These three models furthered my understanding of how unlabeled data can still be used to train and produce key information. Like before, I created hyperparameters that helped customize clustering for the user and included different visuals that help make sense of what these models are doing. Explore this [app](https://foerchuml.streamlit.app/) for yourself!
+
+# [4/14 Supervised Machine Learning Streamlit App 📈 ](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLStreamlitApp)
 <hr>
 <img align="left" width="230" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg" style="width: 25%;" />
 
@@ -22,7 +27,7 @@ Hi! I have another update for you! I have been working on my Python skills by bu
 
 March 17th, 2025
 
-Hello there! Check out my Tidy Data Project! This project is all about the cleaning process of a Federal Research and Development Dataset. I apply Hadley Wickham's three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) to prepare this dataset for statistical analysis and visualizations. By clicking the link above, you will be directed to my Tidy Data folder so that you can learn how to apply these principles. I applied these principles and created visualizations that include comparisons like budget vs departments. My last project walked through how to develop a streamlit app using a cleaned data set. If you click on the [streamlit link](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/basic_streamlit-app), you can learn how to create an app. In this project, I focus on how to clean messy data sets. I can now develop a Streamlit app with my cleaned dataset. 
+Hello there! Check out my Tidy Data Project! This project is all about the cleaning process of a Federal Research and Development Dataset. I apply Hadley Wickham's three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) to prepare this dataset for statistical analysis and visualizations. By clicking the link above, you will be directed to my Tidy Data folder so that you can learn how to apply these principles. I applied these principles and created visualizations that include comparisons like budget vs departments. My last project walked through how to develop a Streamlit app using a cleaned data set. If you click on the [Streamlit link](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/basic_streamlit-app), you can learn how to create an app. In this project, I focus on how to clean messy data sets. I can now develop a Streamlit app with my cleaned dataset. 
 
 # [2/10 My First Streamlit App](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/basic_streamlit-app)
 <hr>
