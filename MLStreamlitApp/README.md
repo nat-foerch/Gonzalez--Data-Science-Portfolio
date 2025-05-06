@@ -4,16 +4,16 @@ This streamlit app allows users to explore data using machine learning models. I
 
 ##  How to Run This Project 🏃🏻‍♀️‍➡️
 ### Check if you have imported Streamlit and installed the required libraries and packages!
+- Streamlit
 - matplotlib==3.10.1
 - numpy==2.2.4
 - pandas==2.2.3
 - scikit_learn==1.6.1
 - seaborn==0.13.2
-- streamlit
 
 ### Two Awesome Ways To Run The App:
 
-1. Click this [link](https://foerchml.streamlit.app/)
+1. Click this [link](https://foerchml.streamlit.app/) (Quick & Easy)
 
 2. Download the [MLStreamlit App code](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/MLStreamlitApp/MLStreamlitApp.py) within the MLStreamlitApp folder in the Gonzalez-Data_Science-Protfolio.Then open VS Code, upload the .py file, and type "streamlit run MLSteamlitApp.py". The app will deploy in a different browser.
 
