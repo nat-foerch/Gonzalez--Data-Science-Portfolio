@@ -1,4 +1,4 @@
-# MLtreamlit App: 🧠 Interactive Unsupervised Machine Learning App! 
+# 🧠 Interactive Unsupervised Machine Learning App! 
 ## Project Overview 
 This Streamlit app allows users to explore data using unsupervised machine learning models. In the app, you will find features that allow you to upload your dataset and customize its features to visualize data in a simple way. Experiment with different unsupervised ML models and choose how many clusters or features you want visualized! This app is a fun and easy way to train and explore your data! Begin [exploring!](https://foerchuml.streamlit.app/)
 
