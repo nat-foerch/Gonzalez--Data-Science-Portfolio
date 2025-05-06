@@ -13,9 +13,9 @@ This streamlit app allows users to explore data using machine learning models. I
 
 ### Two Awesome Ways To Run The App:
 
-1. Click this [link](https://foerchml.streamlit.app/) (Quick & Easy)
+1. Click this [link](https://foerchml.streamlit.app/) (Quick & Easy 😊)
 
-2. Download the [MLStreamlit App code](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/MLStreamlitApp/MLStreamlitApp.py) within the MLStreamlitApp folder in the Gonzalez-Data_Science-Protfolio.Then open VS Code, upload the .py file, and type "streamlit run MLSteamlitApp.py". The app will deploy in a different browser.
+2. Download the [MLStreamlit App code](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/MLStreamlitApp/MLStreamlitApp.py) within the MLStreamlitApp folder in the Gonzalez-Data_Science-Protfolio.Then open VS Code, upload the .py file, and type "streamlit run MLSteamlitApp.py". The app will deploy in a different browser. (Slower but cooler 😎)
 
 ## App Features
 ### Choose your dataset!
