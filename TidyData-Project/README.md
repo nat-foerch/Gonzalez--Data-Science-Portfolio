@@ -1,17 +1,27 @@
-# TidyData- Project
-## Summary
-For the TidyData Project, I followed Hadley Wickham's three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) using data from the U.S. Federal Research and Development (R&D) Budgets. This tidy data project contains descriptions, instructions, and visualizations. 
+# TidyData- Project 🧹
+## Project Overview
+For the TidyData Project, I followed Hadley Wickham's three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) using data from the U.S. Federal Research and Development (R&D) Budgets. This tidy data project contains descriptions, instructions, and visualizations that will help you do the same with your datasets! Come clean with me!
 
-<hr>
-<p align="center">
-  <img src="https://assets.nationbuilder.com/drmikekatz/pages/21/attachments/original/1698609703/money_government_pic_10-29-23_b.jpg?1698609703" style="width: 35%;" />
-<hr>
+## How To Clean Your Data! 🫧
+(1) Check that you have downloaded Jupyter Notebook or VS Code. Then download the following libraries and packages!
+- [Federal R&D Budget](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/fed_rd_year%26gdp.csv)
+- pandas==2.2.3
+- seaborn==0.13.2
+- matplotlib==3.10.1
 
-## Data
+(2) Copy and paste the [code](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Main.ipynb) from the TidyData Folder into your environment.
 
-This data is pulled from **jonthegeek**'s [Federal Research and Development Spending by Agency] (https://pages.github.com/). The cleaned data set contains four variables, which include...
+(3) Run code, and your data is ready for EDA!
+
+## What's In The Data? 🧐
+
+ This dataset includes thirteen federal departments (listed below) and their spending budgets. It includes the corresponding year and GDP rates. This data is pulled from [jonthegeek's](https://pages.github.com/) _Federal Research and Development Spending by Agency_.
 
 ``Budget``: Research and Development in inflation-adjusted US dollars
+
+``GDP``: Total US Gross Domestic Product in inflation-adjusted US dollars 
+
+``Year``: Fiscal Year
 
 ``Department``: US Agency/Department
 <details>
@@ -45,46 +55,32 @@ This data is pulled from **jonthegeek**'s [Federal Research and Development Spen
 **VA** - Department of Veteran Affairs 🎖️
 </details>
 
-``GDP``: Total US Gross Domestic Product in inflation-adjusted US dollars 
 
-``Year``: Fiscal Year
+## Principles In Action 🎬
+### To clean this dataset according to the three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf), we must...
 
+(1) Have each variable in its own column**. This means that variables such as "Department", "Budget", "Year", and "GDP" must be labeled at the top of the dataset.
 
-## Instructions
-First, download the Federal R&D Budget dataset in the ``data`` folder.
+(2) Have each observation in its own row**. This is the result of one treatment on one person.
 
-After downloading, open a Jupyter Notebook.
+(3) Have each type of observational form a table**. Good ordering makes it easier to scan raw values.
 
-Then, import the following libraries:
+## What's Possible?
 
-``pandas`` for data wrangling
-
-``seaborn`` for visualizations
-
-``matplotlib.pyplot`` for visualizations
-
-Run the coding block and you are set to explore the data!
-
-## Cleaning Process 🫧
-To clean this dataset according to the three [Tidy Data Principles](https://vita.had.co.nz/papers/tidy-data.pdf) we must...
-
-**First, have each variable in its own column**. This means that variables such as "Department", "Budget", "Year", and "GDP" must be labeled at the top of the dataset.
-
-**Second, have each observation in its own row**. This is the result of one treatment on one person.
-
-**Third, have each type of observational form a table**. Good ordering makes it easier to scan raw values.
-
-## Vizualizations
+### Create a clean line plot! 📈
 <hr>
 <p align="center">
-  <img src="https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Images/lineplot.png" width="70%" style="display:inline-block; margin-right: 10px;">
+  <img src="https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Images/lineplot.png" width="50%" /> 
+  
+_This line plot demonstrates how each department's budget changed over time. The Department of Defense (DOD) receives the most money each year._
 
-This line plot demonstrates how each department's budget changed over time. The Department of Defense (DOD) receives the most money each year.
+### Create a spectacular Bar Chart! 📊
 <hr>
 <p align="center">
-  <img src="https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Images/barplot.png" width="70%" style="display:inline-block;">
+  <img src="https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/TidyData-Project/Images/barplot.png" width="50%;">
 </p>
-This bar chart demonstrates the year-to-year budget allocated to all departments. The total budget has steadily increased each year, although it has generally decreased since 2011.
+
+_This bar chart demonstrates the year-to-year budget allocated to all departments. The total budget has steadily increased each year, although it has generally decreased since 2011._
 
 
 ## References
