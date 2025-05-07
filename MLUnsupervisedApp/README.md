@@ -13,7 +13,7 @@ This Streamlit app allows users to explore data using unsupervised machine learn
 
 ### Two Awesome Ways To Run The App:
 
-1. Click this [link](https://foerchuml.streamlit.app/) (Quick & Easy)
+1. Click this [link](https://foerchuml.streamlit.app/) (Quick & Easy 😊)
 ### OR
 2. Download the [MLUnsupervised Streamlit App code](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/blob/main/MLUnsupervisedApp/MLUnsupervisedApp.py) within the MLUnsupervisedApp folder in the Gonzalez-Data_Science-Protfolio. Then, open VS Code, upload the .py file, and type "streamlit run MLSteamlitApp.py" in your terminal. The app will deploy in a different browser. (Slower but cooler 😎)
 
