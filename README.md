@@ -35,4 +35,4 @@ Hello there! Check out my Tidy Data Project! This project is all about the clean
 
 February 10th, 2025
 
-Hello! I have created my first Streamlit app using the penguins dataset! Click the link above and you will learn how to access this app and how to create one of your own!
+Hello! I have created my first Streamlit app using the Palmer Penguins dataset! Click the link above and you will learn how to run this app in your own Python environment and explore key features of the dataset. Get ready to learn how to use Streamlit functions to organize and create graphs and app features. The sky is the limit! ⛅
