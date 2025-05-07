@@ -2,7 +2,7 @@
 ## Portfolio Overview 📜
 Hi, and welcome to my first repository on GitHub! I started this journey back in January and have completed it in May. This was used during my Intro to Data Science course in the spring semester of 2025. Here you will find a few of my projects that I have completed throughout the semester. I have certainly learned a lot and will be continuing to develop as a data analyst in the foreseeable future! Thanks to [David M Smiley](https://dmsmiley.github.io/) for having the patience to teach me this past year!
 
-## Latest Projects
+## Latest Projects 🔨
 # [5/6 🧠 Unsupervised Machine Learning Streamlit App](https://github.com/nat-foerch/Gonzalez--Data-Science-Portfolio/tree/main/MLUnsupervisedApp)
 <hr>
 <img align="left" width="230" height="150" src="https://anubrain.com/wp-content/uploads/2023/04/Black-White-Simple-Photo-How-AI-Take-Over-the-World-YouTube-Thumbnail.jpg" style="width: 25%;" />
